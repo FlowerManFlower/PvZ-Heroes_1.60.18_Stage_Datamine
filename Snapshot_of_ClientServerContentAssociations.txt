@@ -1,0 +1,71 @@
+{
+    "1.39.46": {
+        "appVersions": [
+            "1.39.94", 
+            "1.39.107"
+        ], 
+        "serverVersion": "17067d7a8c7115c0c782cfa7969273e8"
+    }, 
+    "1.40.51": {
+        "appVersions": [
+            "1.40.126", 
+            "1.40.130"
+        ], 
+        "serverVersion": "9e4e6f0a0f9a691915f0720457631cad"
+    }, 
+    "1.50.7": {
+        "appVersions": [
+            "1.50.2", 
+            "1.50.7"
+        ], 
+        "serverVersion": "6e4e821fdeb9d05793cacff5b9183387"
+    }, 
+    "1.60.10": {
+        "appVersions": [
+            "1.60.18"
+        ], 
+        "serverVersion": "6e4e821fdeb9d05793cacff5b9183387"
+    }, 
+    "1.60.11": {
+        "appVersions": [
+            "1.60.23"
+        ], 
+        "serverVersion": "dca4b7a546febd51a918e607c053cec0"
+    }, 
+    "1.60.12": {
+        "appVersions": [
+            "1.60.24"
+        ], 
+        "serverVersion": "dca4b7a546febd51a918e607c053cec0"
+    }, 
+    "1.60.13": {
+        "appVersions": [
+            "1.60.25"
+        ], 
+        "serverVersion": "dca4b7a546febd51a918e607c053cec0"
+    }, 
+    "1.60.14": {
+        "appVersions": [
+            "1.60.26"
+        ], 
+        "serverVersion": "dca4b7a546febd51a918e607c053cec0"
+    }, 
+    "1.60.16": {
+        "appVersions": [
+            "1.60.31"
+        ], 
+        "serverVersion": "dca4b7a546febd51a918e607c053cec0"
+    }, 
+    "1.60.17": {
+        "appVersions": [
+            "1.60.33"
+        ], 
+        "serverVersion": "dca4b7a546febd51a918e607c053cec0"
+    }, 
+    "1.60.18": {
+        "appVersions": [
+            "1.60.34"
+        ], 
+        "serverVersion": "fe3942a45901df4510934104d5b18dab"
+    }
+}
